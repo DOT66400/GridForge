@@ -15,7 +15,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/GridForge.git
+   git clone https://github.com/DOT66400/GridForge.git
    ```
 2. Open your Unity project.
 3. Add the `GridForge` folder to your `Assets/Editor` directory.
