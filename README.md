@@ -23,7 +23,7 @@
 
 ## 📖 Documentation
 
-For a full guide on using GridForge, visit the **[Wiki](https://github.com/your-repo/GridForge/wiki)**.
+For a full guide on using GridForge, visit the **[Wiki](https://github.com/DOT66400/GridForge/wiki/GridForge)**.
 
 
 ## 📢 Support
