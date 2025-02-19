@@ -1,7 +1,5 @@
 # GridForge
 
-![GridForge Logo](https://github.com/user-attachments/assets/your-logo.png)
-
 **GridForge** is a powerful Unity tool designed for quick and efficient **map prototyping**. Whether you're a game developer, level designer, or artist, this tool helps streamline the process of creating and editing maps directly in the Unity Editor.
 
 ## ✨ Features
